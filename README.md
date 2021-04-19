@@ -1,6 +1,6 @@
 ## 平台简介
 
-StudyTool是套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
+StudyTool是一个提供初学者学习编程的平台，让小伙伴们对学习路线有一个宏观的树状图。
 
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
