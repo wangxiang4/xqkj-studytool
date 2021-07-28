@@ -5,8 +5,8 @@ import ${import};
 #end
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
-import com.xqkj.common.annotation.Excel;
-import com.xqkj.common.core.domain.BaseEntity;
+import com.hnrc.common.core.annotation.Excel;
+import com.hnrc.common.core.web.domain.BaseEntity;
 
 /**
  * ${subTable.functionName}对象 ${subTableName}
